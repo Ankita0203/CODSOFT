@@ -1,3 +1,5 @@
+//#TASK2
+
 import java.util.Scanner;
 public class StudentGradeCalculator {
     public static void main(String[] args) {
